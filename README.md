@@ -1,10 +1,9 @@
-## Oiii eu sou Lennon Martins! Bem vindo ao meu perfil ✨
+## Olá ✌🏾 Eu sou Lennon Martins! Bem vindo ao meu perfil ✨
 
-- 🔭 Atualmente na Digix como estagiário de desenvolvimento Web!
+- 🔭 Atualmente trabalho na Digix como estagiário de desenvolvimento Web.
 - 🌱 Estou aprendendo HTML | CSS | JAVA | JS | DJANGO
 - 😄 Pronouns: ele/ dele.
 - ⚡ Fun fact: sou formado em RI 📚
--->
 
 
 <div align="center">
