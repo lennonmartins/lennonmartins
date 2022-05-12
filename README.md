@@ -1,4 +1,4 @@
-## Oiii eu sou Lennon Martins, estudante de ADS e amante de tecnologia/inovação! Bem vindo ao meu perfil ✨
+## Oiii eu sou Lennon Martins! Bem vindo ao meu perfil ✨
 
 - 🔭 Atualmente na Digix como estagiário de desenvolvimento Web!
 - 🌱 Estou aprendendo HTML | CSS | JAVA | JS | DJANGO
