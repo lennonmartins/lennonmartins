@@ -32,7 +32,3 @@
   <a href="https://www.linkedin.com/in/lennon-martins-253476182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-  
-  <br>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=F7AF2E&lines=Lennon+Martins+)](https://git.io/typing-svg)
