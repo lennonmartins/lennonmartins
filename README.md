@@ -20,8 +20,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
-  <img src="https://thumbs2.imgbox.com/d7/31/0VFeTdX4_t.jpg" alt="image host"/></a>
+   <img align="right" alt="Lennon-pic" height="150" style="border-radius:50px;"
+  <img src="https://thumbs2.imgbox.com/be/fc/GTLGysar_t.jpg" alt="image host"/></a>
     
    </div>
         
