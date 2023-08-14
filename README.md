@@ -1,7 +1,7 @@
 ## Olá ✌🏾, sou o Lennon! Bem vindo ao meu perfil ✨
 
 - 🔭 Atualmente trabalho na Digix como estagiário de desenvolvimento Web.
-- 🌱 Estou aprendendo HTML | CSS | JAVA | JS | DJANGO
+- 🌱 Estou aprendendo HTML | CSS | JAVA | JS | DJANGO | C#
 - 😄 Pronouns: ele/ dele.
 - ⚡ Fun fact: sou formado em RI 📚
 
